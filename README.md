@@ -1,10 +1,10 @@
-<img src="https://imgur.com/a/T0sXfYb.jpg" width="30%">
 
-<p align="center">
+<img src="https://imgur.com/7XO3At1.jpg" width="80%">
+<!-- <p align="center">
   <a href="https://apsmith.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://linkedin.com/adamps724" target="_blank">
+  <a href="www.linkedin.com/in/adamps724" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/adamps724" target="_blank">
@@ -16,9 +16,9 @@
   <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
-</p>
+</p> -->
 
-A passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring free lance opportunities.
+Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring free lance opportunities.
 
 See [my website](https://apsmith.netlify.app) for more information!
 
@@ -144,7 +144,7 @@ See [my website](https://apsmith.netlify.app) for more information!
   <a href="https://apsmith.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://linkedin.com/adamps724" target="_blank">
+  <a href="www.linkedin.com/in/adamps724" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/adamps724" target="_blank">
