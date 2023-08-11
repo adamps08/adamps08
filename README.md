@@ -22,7 +22,6 @@ Hello! I am a passionate full-stack developer from America, though I spent some 
 
 See [my website](https://apsmith.netlify.app) for more information!
 
-<iframe src="https://giphy.com/embed/cI7f2z2zOaOv1yD4Ni" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cI7f2z2zOaOv1yD4Ni">via GIPHY</a></p>
 <!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -34,8 +33,7 @@ See [my website](https://apsmith.netlify.app) for more information!
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
-        <p align="center">
-        </p>
+        <p align="center"></p>
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
