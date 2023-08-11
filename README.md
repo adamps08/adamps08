@@ -21,7 +21,7 @@
 Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring freelance opportunities.
 
 See [my website](https://apsmith.netlify.app) for more information!
-
+<img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" >
 <!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
