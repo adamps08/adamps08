@@ -1,5 +1,6 @@
 
-<img src="https://i.imgur.com/FIISyZL.jpg" width="80%">
+<img src="https://imgur.com/FIISyZL.jpg" width="80%">
+
 <!-- <p align="center">
   <a href="https://apsmith.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
