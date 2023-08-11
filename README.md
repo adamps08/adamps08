@@ -28,15 +28,15 @@ See [my website](https://apsmith.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="www.apsmith.netlify.app">
+        <a target="_blank" href="https://github.com/adamps08/apsmith">
             <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 100% >
         </a>
         <br />
         <p align="center"></p> 
-    <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+    <a href="https://github.com/adamps08/apsmith" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="" target="_blank">
+  <a href="www.apsmith.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
