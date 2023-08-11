@@ -32,7 +32,7 @@ See [my website](https://apsmith.netlify.app) for more information!
             <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 100% >
         </a>
         <br />
-        <p align="center"></p> --!>
+        <p align="center"></p> 
     <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
