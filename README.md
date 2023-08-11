@@ -22,7 +22,7 @@ Hello! I am a passionate full-stack developer from America, though I spent some 
 
 See [my website](https://apsmith.netlify.app) for more information!
 
- <h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -33,7 +33,7 @@ See [my website](https://apsmith.netlify.app) for more information!
             <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 50% >
         </a>
         <br />
-        <p align="center"></p>
+        <p align="center"></p> --!>
 <!--   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
