@@ -18,7 +18,7 @@
   </a> -->
 </p> 
 
-Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring free lance opportunities.
+Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring freelance opportunities.
 
 See [my website](https://apsmith.netlify.app) for more information!
 
