@@ -30,7 +30,7 @@ See [my website](https://apsmith.netlify.app) for more information!
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="www.apsmith.netlify.app">
-            <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" >
+            <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 50% >
         </a>
         <br />
         <p align="center"></p>
