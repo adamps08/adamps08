@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/FIISyZL.jpg" width="80%">
+<img src="https://i.imgur.com/FIISyZL.jpg" width="80%">
 
 <!-- <p align="center">
   <a href="https://apsmith.netlify.app" target="_blank">
