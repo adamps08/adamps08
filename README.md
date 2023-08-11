@@ -16,7 +16,7 @@
   <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
-</p> -->
+</p> 
 
 Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring free lance opportunities.
 
