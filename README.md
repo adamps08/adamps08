@@ -36,7 +36,7 @@ See [my website](https://apsmith.netlify.app) for more information!
     <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -45,7 +45,7 @@ See [my website](https://apsmith.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Website With NASA API Intergration</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://github.com/adamps08/projects/tree/main/nb-stargazers">
         <img src ="https://media.giphy.com/media/FwBLv9PovYB3crxH1Y/giphy.gif" width = 100%>
         </a>
         <br />
