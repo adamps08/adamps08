@@ -22,32 +22,31 @@ Hello! I am a passionate full-stack developer from America, though I spent some 
 
 See [my website](https://apsmith.netlify.app) for more information!
 
-<!-- <h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="www.apsmith.netlify.app">
-            <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 50% >
+            <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" width = 100% >
         </a>
         <br />
         <p align="center"></p> --!>
-<!--   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+    <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript & HTML/CSS</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Website With NASA API Intergration</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        <img src ="https://media.giphy.com/media/FwBLv9PovYB3crxH1Y/giphy.gif" width = 100%>
         </a>
         <br />
         <p align="center">
@@ -59,11 +58,11 @@ See [my website](https://apsmith.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript & HTML/CSS</strong> Website for local stargazing community utilizing the NASA APi.</p>
     </td>
   </tr>
   
-  <tr>
+   <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
       <br />
@@ -99,8 +98,8 @@ See [my website](https://apsmith.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
-  </tr>
-</table> --> 
+  </tr>  -->
+</table>  
 
 
 <h1 align="center">Technologies</h1>
