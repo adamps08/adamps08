@@ -21,20 +21,20 @@
 Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring freelance opportunities.
 
 See [my website](https://apsmith.netlify.app) for more information!
-<img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" >
-<!-- <h1 align="center">Projects</h1>
+
+ <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="www.apsmith.netlify.app">
+            <img src= "https://media.giphy.com/media/cI7f2z2zOaOv1yD4Ni/giphy.gif" >
         </a>
         <br />
         <p align="center"></p>
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+<!--   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="http://travelara.herokuapp.com" target="_blank">
@@ -100,7 +100,7 @@ See [my website](https://apsmith.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table> -->
+</table> --> 
 
 
 <h1 align="center">Technologies</h1>
