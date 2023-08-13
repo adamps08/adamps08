@@ -1,4 +1,5 @@
 
+
 <img src="https://i.imgur.com/S0Liw75.jpeg" width="100%">
 <!-- <p align="center">
   <a href="https://apsmith.netlify.app" target="_blank">
@@ -18,7 +19,7 @@
   </a> -->
 </p> 
 
-Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. I have a knack for both front and back end web development, and am currently exploring freelance opportunities.
+Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. My background is in education, and while implementing technology-based learning practices on the job I began to pique an interest in the software I was utilizing daily; how does it work? Can it's functionality be improved? Could it possibly be designed in a more intuitive fasion? Such questions eventually led me down the trail of becoming a software engineer. I have a knack for both front and back end web development, and am currently exploring freelance opportunities.
 
 See [my website](https://apsmith.netlify.app) for more information!
 
@@ -34,9 +35,9 @@ See [my website](https://apsmith.netlify.app) for more information!
         <br />
         <p align="center"></p> 
     <a href="https://github.com/adamps08/apsmith" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
   </a>  
-  <a href="www.apsmith.netlify.app" target="_blank">
+  <a href="https://apsmith.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -45,16 +46,16 @@ See [my website](https://apsmith.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Website With NASA API Intergration</h3>
         <br />
-      <a target="_blank" href="https://github.com/adamps08/projects/tree/main/nb-stargazers">
+      <a target="_blank" href="https://github.com/adamps08/nb-stargazers">
         <img src ="https://media.giphy.com/media/FwBLv9PovYB3crxH1Y/giphy.gif" width = 100%>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/adamps08/nb-stargazers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://github.com/adamps08/nb-stargazers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
