@@ -19,7 +19,7 @@
   </a> -->
 </p> 
 
-Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. My background is in education, and while implementing technology-based learning practices on the job I began to pique an interest in the software I was utilizing daily; how does it work? Can it's functionality be improved? Could it possibly be designed in a more intuitive fasion? Such questions eventually led me down the trail of becoming a software engineer. I have a knack for both front and back end web development, and am currently exploring opportunites to collaborate with other developers on projects.
+Hello! I am a passionate full-stack developer from America, though I spent some time living in Japan in the past. My background is in education, and while implementing technology-based learning practices on the job I began to pique an interest in the software I was utilizing daily; how does it work? Can it's functionality be improved? Could it possibly be designed in a more intuitive fasion? Such questions eventually led me down the trail of becoming a software engineer. I have experience in both front and back end web development, and am currently exploring opportunites to collaborate with other developers on projects.
 
 See [my website](https://apsmith.netlify.app) for more information!
 
